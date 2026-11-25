@@ -1,0 +1,5 @@
+# D365 Helpers
+User-agent: *
+Allow: /
+
+Sitemap: https://d365helpers.com/sitemap.xml
